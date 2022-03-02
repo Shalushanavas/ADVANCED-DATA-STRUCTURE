@@ -32,6 +32,7 @@ void main ()
 	    {
 		pop();
 		break;
+		    
 	    }
 	    case 3:
 	    {
