@@ -2,6 +2,7 @@
 void DFS(int);
 int G[10][10],visited[10],n;
 void main()
+	
 {
     int i,j;
     clrscr();
